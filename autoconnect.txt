@@ -1,5 +1,5 @@
 database
-localhost
-33060
-root
-1234
+host
+port
+user
+pass
